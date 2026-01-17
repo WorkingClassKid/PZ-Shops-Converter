@@ -36,7 +36,7 @@ def convert_file(input_path, output_path):
 
 def main():
     if len(sys.argv) != 3:
-        print("Usage: python3 conversion.py input.lua output.lua")
+        print("Usage: python3 converter.py input.lua output.lua")
         sys.exit(1)
 
     input_path = sys.argv[1]
