@@ -6,9 +6,13 @@ Original Shops mod by Noir (B41): https://steamcommunity.com/sharedfiles/filedet
 Updated Shops mod for B42 by eScape: https://steamcommunity.com/sharedfiles/filedetails/?id=3631768689
 
 
-# Usage
+## Usage
 
 `python3 converter_shops.py input.lua output.lua`
 
 
 `python3 converter_forsale.py input.lua output.lua`
+
+
+
+__© 2026 by Philippe Robert (WorkingClassKid) is licensed under CC BY-NC-SA 4.0__
